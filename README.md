@@ -9,7 +9,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/rgglez/go-slugify?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/rgglez/go-slugify?style=social)
 
-**go-slugify** is a Go port of [github.com/sindresorhus/slugify](github.com/sindresorhus/slugify).
+**go-slugify** is a Go port of [github.com/sindresorhus/slugify](https://github.com/sindresorhus/slugify).
 
 It slugifies a string. Useful for URLs, filenames, and IDs.
 
