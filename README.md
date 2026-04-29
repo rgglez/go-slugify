@@ -2,7 +2,7 @@
 
 [![Go dev](https://pkg.go.dev/badge/github.com/rgglez/go-slugify)](https://pkg.go.dev/gitub.com/rgglez/go-slugify)
 [![License](https://img.shields.io/badge/license-mit-blue.svg)](https://github.com/rgglez/go-slugify/blob/master/LICENSE)
-[![Build Test](https://github.com/rgglez/go-slugify/actions/workflows/build-test.yml/badge.svg)](https://github.com/rgglez/go-slugify/actions/workflows/build-test.yml)
+[![Build Test](https://github.com/rgglez/go-slugify/actions/workflows/build.yml/badge.svg)](https://github.com/rgglez/go-slugify/actions/workflows/build-test.yml)
 [![Cross Build](https://github.com/rgglez/go-slugify/actions/workflows/cross-build.yml/badge.svg)](https://github.com/rgglez/go-slugify/actions/workflows/cross-build.yml)
 [![Unit Test](https://github.com/rgglez/go-slugify/actions/workflows/unit-test.yml/badge.svg)](https://github.com/rgglez/go-slugify/actions/workflows/unit-test.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rgglez/go-slugify)](https://goreportcard.com/report/github.com/rgglez/go-slugify)
