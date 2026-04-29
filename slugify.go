@@ -43,14 +43,14 @@ var BuiltinReplacements = [][2]string{
 // Options controls slug generation behaviour.
 // Nil pointer fields fall back to their documented defaults.
 type Options struct {
-	Separator                 *string    // default: "-"
-	Lowercase                 *bool      // default: true
-	Decamelize                *bool      // default: true
+	Separator                 *string // default: "-"
+	Lowercase                 *bool   // default: true
+	Decamelize                *bool   // default: true
 	CustomReplacements        [][2]string
 	PreserveLeadingUnderscore bool
 	PreserveTrailingDash      bool
 	PreserveCharacters        []string
-	Transliterate             *bool   // default: true
+	Transliterate             *bool // default: true
 	Locale                    string
 }
 
